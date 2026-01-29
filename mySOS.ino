@@ -8,10 +8,10 @@
   a short pause at the end of each set.  The whole pattern repeats after a 30 second break.
 
   created:  24 Jan 2026
-  by:       mrawe58
+  by:       bitKiva107
   IDE:      2.3.7
   board:    UNO R3
-  modified: 24 Jan 2026 - mrawe58
+  modified: 29 Jan 2026 - bitKiva107
   
 */
 void setup() {
